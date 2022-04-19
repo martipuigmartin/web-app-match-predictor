@@ -11,7 +11,7 @@ const App = () => {
     const options = {
         method: 'GET', headers: {
             'X-RapidAPI-Host': 'football-prediction-api.p.rapidapi.com',
-            'X-RapidAPI-Key': 'f95915d8efmsh61b0b93bd34a86fp103135jsn266ba236ad5d'
+            'X-RapidAPI-Key': ''
         }
     };
 
